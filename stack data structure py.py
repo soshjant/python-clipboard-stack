@@ -1,6 +1,6 @@
 #copy paste delete show_all_items delete_all clipboard paste_all
 
-import os
+
 
 class stack():
     def __init__(self ):
